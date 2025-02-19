@@ -6,3 +6,5 @@ go to web page using http://schoolbell.local/
 
 
 chande the code as you wish
+
+connet a relay to pin D4 for the bell
